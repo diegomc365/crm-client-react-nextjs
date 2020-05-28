@@ -8,9 +8,10 @@
     "start": "next start"
   },
   "dependencies": {
-    "@apollo/client": "^3.0.0-beta.50",
+    "@apollo/client": "^3.0.0-beta.39",
+    "apollo-link-context": "^1.0.20",
     "formik": "^2.1.4",
-    "graphql": "^15.0.0",
+    "graphql": "^14.0.0",
     "next": "9.4.2",
     "node-fetch": "^2.6.0",
     "react": "16.13.1",
