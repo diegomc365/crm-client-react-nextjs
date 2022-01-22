@@ -13,7 +13,7 @@
     "formik": "^2.1.4",
     "graphql": "^14.0.0",
     "next": "9.4.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-select": "^3.1.0",
